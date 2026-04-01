@@ -7,15 +7,15 @@ Unlike traditional transformers that rely solely on sequential attention mechani
 
 ## Key Features
 
-### 🧠 Neuro-Symbolic Integration
+###  Neuro-Symbolic Integration
 Sofia combines deep learning pattern recognition with symbolic logic reasoning, enabling it to not only predict the next token but also understand the logical consistency of the generated thought.
 
-### ⚛️ Quantum-Level Processing Simulation
+### Quantum-Level Processing Simulation
 - **Superpositional Embeddings**: Words are represented as vectors existing in multiple semantic states simultaneously until "measured" (decoded) by the context.
 - **Entangled Context Windows**: Distant parts of a conversation remain mathematically entangled, ensuring long-term coherence without the vanishing gradient problem.
 - **Interference-Based Attention**: Uses wave-function interference patterns to amplify relevant context and cancel out noise.
 
-### 🌐 Advanced NLP Capabilities
+###  Advanced NLP Capabilities
 - Multi-lingual semantic understanding.
 - Real-time sentiment and intent analysis.
 - Generative reasoning with explainable AI (XAI) outputs.
@@ -48,10 +48,6 @@ response = sofia.process("Explain the concept of time dilation.")
 print(response)
 ```
 
-## Future Roadmap
-- [ ] Integration with actual quantum hardware backends (IBM Qiskit, Google Cirq).
-- [ ] Self-evolving weight matrices based on user feedback loops.
-- [ ] Multi-modal sensory input processing (Vision + Language).
 
 ## License
 MIT License © 2023 Sofia AI Research Group.
